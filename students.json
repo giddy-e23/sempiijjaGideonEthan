@@ -1,0 +1,27 @@
+{
+    "2026/BSCS/001": {
+        "Address": "Kampala",
+        "Contact": "0700000001",
+        "Program": "BSCS"
+    },
+    "2026/BSCS/002": {
+        "Address": "Jinja",
+        "Contact": "0700000002",
+        "Program": "BSCS"
+    },
+    "2026/BSCS/003": {
+        "Address": "Mbarara",
+        "Contact": "0700000003",
+        "Program": "BSCS"
+    },
+    "2026/BSCS/004": {
+        "Address": "Gulu",
+        "Contact": "0700000004",
+        "Program": "BSCS"
+    },
+    "2026/BSCS/005": {
+        "Address": "Entebbe",
+        "Contact": "0700000005",
+        "Program": "BSCS"
+    }
+}
